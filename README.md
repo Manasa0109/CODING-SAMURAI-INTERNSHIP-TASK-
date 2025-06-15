@@ -32,11 +32,17 @@ answers.
 
 -----------------------------------------------
 💡 Sample Questions Included
+
 What is Java?
+
 Which keyword is used to create a subclass?
+
 Which is not a Java keyword?
+
 Size of int in Java?
+
 Entry point method of Java program?
+
 -------------------------------------------------
 ---------------------------------------
 📦 Technologies Used
