@@ -55,7 +55,7 @@ OOP (Object-Oriented Programming)
 
 
 
-                                                                                                                                   Developed By
-                                                                                                                                   Puligadda Lakshmi Manasa
-                                                                                                                                   Coding Samurai Intern
-                                                                                                                                   GitHub: @Manasa0109
+                                                               Developed By
+                                                               Puligadda Lakshmi Manasa
+                                                               Coding Samurai Intern
+                                                               GitHub: @Manasa0109
