@@ -46,8 +46,11 @@ Entry point method of Java program?
 -------------------------------------------------
 ---------------------------------------
 📦 Technologies Used
+
 Java (Core)
+
 OOP (Object-Oriented Programming)
+
 --------------------------------------
 
 
